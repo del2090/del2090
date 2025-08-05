@@ -1,8 +1,8 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=del2090&show_icons=true&theme=github_dark&hide_border=true&count_private=false" width=56% />
+  <img src="https://github-readme-stats.vercel.app/api?username=del2090&show_icons=true&theme=github_dark&hide_border=true&count_private=true" width=56% />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=del2090&layout=donut&show_icons=true&theme=github_dark&langs_count=5&size_weight=0.5&count_weight=0.5&hide_border=true&count_private=false" width=38% />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=del2090&layout=donut&show_icons=true&theme=github_dark&langs_count=5&size_weight=0.5&count_weight=0.5&hide_border=true&count_private=true" width=38% />
 </a> 
 <!--<p align="center">
 <a href='https://solved.ac/profile/del2090'><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=del2090" referrerpolicy="no-referrer" alt="solved.ac tier"></a>
